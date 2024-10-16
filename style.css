@@ -1,0 +1,22 @@
+div{
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+img{
+    border: 5px;
+    color: aliceblue;
+    align-items: center;
+    width: 100%;
+}
+h1{
+    text-align: center;
+    color: gold;
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
